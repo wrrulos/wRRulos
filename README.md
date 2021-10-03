@@ -3,14 +3,17 @@
 <p> Soy un programador de Argentina 🇦🇷 </p>
 <p> 🔰 Fundador de @wfycoteam </p>
 
-<img src="https://github.com/wrrulos/Imagenes-Github/blob/main/Gifs/gif-anime1.gif" width="1000" height="300">
+<img src="https://github.com/wrrulos/Imagenes-Github/blob/main/Gifs/gif-anime1.gif" width="1000" height="300" alt="Gif-Anime">
   
 ### Tengo conocimientos en los lenguajes:
 
-<p>  [#] Python 🐍 </p>
-<p>  [#] Batch & Bash 🖥 </p>
-<p> 
+- Python 🐍 
+- Batch & Bash 🖥
+- Java ♨️ (Aprendiendo)
 
+<br/>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wrrulos&show_icons=true)  
 <!--
 **wrrulos/wRRulos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
