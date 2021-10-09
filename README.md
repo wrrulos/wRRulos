@@ -1,4 +1,4 @@
-### Hola 👋, soy Pedro pero soy mas conocido como wRRulos 👀
+### Hola 👋
 
 <p> Soy un programador de Argentina 🇦🇷 </p>
 <p> 🔰 Fundador de @wfycoteam </p>
