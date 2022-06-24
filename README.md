@@ -1,7 +1,6 @@
 ### Hola 👋
 
 <p> Soy un programador de Argentina 🇦🇷 </p>
-<p> 🔰 Fundador de @wfycoteam </p>
 
 <img src="https://github.com/wrrulos/Imagenes-Github/blob/main/Gifs/gif-anime1.gif" width="1000" height="300" alt="Gif-Anime">
   
