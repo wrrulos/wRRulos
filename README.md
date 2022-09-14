@@ -1,14 +1,9 @@
 ### Hola 👋
 
-<p> Soy un programador de Argentina 🇦🇷 </p>
+<p> Soy un programador de Argentina 🇦🇷🐍</p>
 
 <img src="https://github.com/wrrulos/Imagenes-Github/blob/main/Gifs/gif-anime1.gif" width="1000" height="300" alt="Gif-Anime">
-  
-### Tengo conocimientos en los lenguajes:
-
-- Python 🐍 
-- Batch & Bash 🖥
-- Java ♨️ (Aprendiendo)
+ 
 
 <br/>
 
