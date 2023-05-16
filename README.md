@@ -7,7 +7,7 @@
 
 <br/>
 # Stats
-![wRRulos GitHub stats](https://github-readme-stats.vercel.app/api?username=wrrulos&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wrrulos&show_icons=true&theme=radical)
 
 # Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wrrulos)
